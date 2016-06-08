@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:25.318637
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:59
 #+TITLE: 護身命經
 #+PROPERTY: CBETA_ID T85n2865
 #+PROPERTY: ID KR6u0001
@@ -145,7 +145,7 @@ No.2865¶
 　因此福方便
 　永離生死苦¶
 　得□至涅槃
-　不滅復不生
+　不滅復不生」
 #+END_VERSE
-」¶
+¶
 救護身命經一卷
